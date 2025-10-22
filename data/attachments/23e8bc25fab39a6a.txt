@@ -1,0 +1,6 @@
+
+[Setup] Launching EDGE browser
+
+=== TEST: File Upload on EDGE ===
+✅ File uploaded: C:\fakepath\sql.txt
+[Teardown] Closing EDGE browser

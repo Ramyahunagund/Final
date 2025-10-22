@@ -1,0 +1,9 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: Checkbox on CHROME ===
+✅ Selected: You have selected :
+desktop
+notes
+commands
+[Teardown] Closing CHROME browser

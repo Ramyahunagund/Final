@@ -1,0 +1,6 @@
+
+[Setup] Launching EDGE browser
+
+=== TEST: Drag and Drop on EDGE ===
+✅ Target text after drop: Dropped!
+[Teardown] Closing EDGE browser

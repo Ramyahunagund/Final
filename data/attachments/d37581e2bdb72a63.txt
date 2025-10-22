@@ -1,0 +1,26 @@
+
+=== Starting Add to Cart Test ===
+[Login] Using already logged-in session
+[Feature] Loading products...
+[Feature] Total products found: 9
+  Product 1: Samsung galaxy s6
+  Product 2: Nokia lumia 1520
+  Product 3: Nexus 6
+  Product 4: Samsung galaxy s7
+  Product 5: Iphone 6 32gb
+[Step] Opening first product...
+[Feature] Scrolled down 500px.
+[Feature] Adding product to cart...
+[Alert] Alert text: Product added.
+[Alert] Alert accepted successfully.
+[Feature] Drag action performed on logo.
+[Feature] Right-click action performed on logo.
+[Feature] Opening new window and switching...
+[Window Handling] Switched to About Us page.
+[Window Handling] Closed About Us page window.
+[Window Handling] Back to main window.
+[Feature] Navigated to Cart page.
+[Feature] Scrolled to bottom of cart page.
+✅ Add to Cart test executed with all advanced Selenium features.
+=== Test Completed ===
+
