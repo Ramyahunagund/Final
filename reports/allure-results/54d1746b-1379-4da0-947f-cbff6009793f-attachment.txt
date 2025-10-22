@@ -1,0 +1,21 @@
+
+=== TEST: Checkbox on Chrome ===
+✅ Selected: You have selected :
+desktop
+notes
+commands
+✅ Updated: You have selected :
+desktop
+notes
+commands
+documents
+workspace
+react
+angular
+veu
+office
+public
+private
+classified
+general
+✅ Checkbox Test Completed

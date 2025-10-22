@@ -1,0 +1,9 @@
+
+[Setup] Launching EDGE browser
+
+=== TEST: Checkbox on EDGE ===
+✅ Selected: You have selected :
+desktop
+notes
+commands
+[Teardown] Closing EDGE browser

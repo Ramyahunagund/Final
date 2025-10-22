@@ -1,0 +1,5 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: File Upload on CHROME ===
+[Teardown] Closing CHROME browser

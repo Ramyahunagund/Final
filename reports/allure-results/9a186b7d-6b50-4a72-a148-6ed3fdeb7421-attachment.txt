@@ -1,0 +1,60 @@
+
+=== Starting login test ===
+
+[Feature] Checking for broken links...
+Total links found: 33
+Error checking link: https://www.demoblaze.com/index.html -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /index.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/index.html -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /index.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/cart.html -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /cart.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/#carouselExampleIndicators -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/#carouselExampleIndicators -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/# -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=1 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=1 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=2 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=2 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=3 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=3 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=4 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=4 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=5 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=5 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=6 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=6 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=7 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=7 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=8 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=8 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=9 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=9 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+Error checking link: https://www.demoblaze.com/prod.html?idp_=9 -> HTTPSConnectionPool(host='www.demoblaze.com', port=443): Max retries exceeded with url: /prod.html?idp_=9 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+[Feature] Broken links check completed.
+
+[Feature] Testing browser navigation commands...
+Clicked on login button.
+Navigated back.
+Navigated forward.
+Refreshed page.
+[Feature] Navigation commands completed.
+
+[Action] Performing login...
+Opened login modal.
+Entered username: jane smith
+Entered password.
+Clicked login button.
+
+[Feature] Checking page after refresh...
+Page refreshed.
+User is on the expected page after refresh.
+
+[Feature] Logging out...
+User logged out successfully.
+
+=== Login test executed successfully for user: jane smith ===

@@ -1,0 +1,6 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: Drag and Drop on CHROME ===
+✅ Target text after drop: Dropped!
+[Teardown] Closing CHROME browser

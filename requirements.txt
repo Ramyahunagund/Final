@@ -1,0 +1,6 @@
+pytest
+selenium==4.12.0
+allure-pytest
+pytest-html
+requests
+webdriver-manager

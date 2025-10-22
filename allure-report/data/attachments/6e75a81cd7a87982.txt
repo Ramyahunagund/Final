@@ -1,0 +1,8 @@
+
+[Setup] Launching EDGE browser
+
+=== TEST: Radio Button on EDGE ===
+✅ Selected: Yes
+✅ Selected: Impressive
+✅ 'No' radio is disabled
+[Teardown] Closing EDGE browser

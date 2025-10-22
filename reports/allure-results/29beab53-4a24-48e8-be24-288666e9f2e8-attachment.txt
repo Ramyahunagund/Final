@@ -1,0 +1,5 @@
+
+=== TEST: Dropdown on Chrome ===
+✅ Selected: Purple
+✅ Multi-selected: ['Volvo', 'Audi']
+✅ Deselected all

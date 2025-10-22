@@ -1,0 +1,8 @@
+
+[Setup] Launching EDGE browser
+
+=== TEST: Dropdown on EDGE ===
+✅ Selected: Purple
+✅ Multi-selected: ['Volvo', 'Audi']
+✅ Deselected all
+[Teardown] Closing EDGE browser

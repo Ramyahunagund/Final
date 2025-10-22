@@ -1,0 +1,8 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: Radio Button on CHROME ===
+✅ Selected: Yes
+✅ Selected: Impressive
+✅ 'No' radio is disabled
+[Teardown] Closing CHROME browser

@@ -1,0 +1,24 @@
+
+=== Starting signup test for user: varshitha reddy ===
+
+[Feature] Hovering over all categories...
+Hovered over category: CATEGORIES
+Hovered over category: Phones
+Hovered over category: Laptops
+Hovered over category: Monitors
+[Feature] Hovering completed.
+
+[Feature] Scrolling page...
+Scrolled down
+Scrolled up
+[Feature] Scrolling completed.
+
+[Feature] Opening signup modal...
+Signup modal is visible.
+[Action] Entering signup details for user: varshitha reddy
+Signup submitted. Waiting for potential alert...
+Alert message received: This user already exist.
+Alert accepted.
+[Feature] Screenshot saved at: C:\Users\Ascendion\PycharmProjects\Final\screenshots\signup_varshitha_reddy.png
+=== Signup test completed for user: varshitha reddy ===
+

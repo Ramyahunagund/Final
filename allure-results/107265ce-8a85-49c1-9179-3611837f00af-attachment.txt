@@ -1,0 +1,8 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: Dropdown on CHROME ===
+✅ Selected: Purple
+✅ Multi-selected: ['Volvo', 'Audi']
+✅ Deselected all
+[Teardown] Closing CHROME browser

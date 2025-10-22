@@ -1,0 +1,6 @@
+
+[Setup] Launching CHROME browser
+
+=== TEST: File Upload on CHROME ===
+✅ File uploaded: C:\fakepath\sql.txt
+[Teardown] Closing CHROME browser
